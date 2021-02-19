@@ -4,6 +4,9 @@ Hello, everyone:
 
 This is a project currently serving as my cv.
 
+It is a work in progress and has not yet been deployed. 
+
+Below are details on the Gatsby project itself.
 
 ## 🚀 Quick start
 
