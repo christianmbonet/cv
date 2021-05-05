@@ -1,4 +1,4 @@
-# Christian B.'s CV
+# Christian's CV
 
 Hello, everyone:
 
